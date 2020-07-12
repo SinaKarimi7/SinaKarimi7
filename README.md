@@ -6,7 +6,22 @@
 
 Software Engineer, Data Science Researcher, Python and C++ Developer, GNU/Linux Lover :heart:
 
-:rocket: Mankind was born on Earth... it was never meant to die here.
+🚀 Mankind was born on Earth... it was never meant to die here.
+
+### ⚡️ Technologies
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Deno](https://img.shields.io/badge/-Deno-black?style=for-the-badge&logo=Deno&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=for-the-badge&logo=OpenCV&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=Arduino&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
 
 ### 📫 Reach out
 
