@@ -30,4 +30,4 @@ several other options available, too.
 [![Telegram](https://img.shields.io/static/v1?link=https://t.me/s/sinakarimi7&logo=telegram&label=Telegram&message=%20&color=2ca5e0&style=for-the-badge)](https://t.me/s/sinakarimi7)
 [![Instagram](https://img.shields.io/static/v1?link=https://instagram.com/sinakarimi7&logo=instagram&label=Instagram&message=%20&color=e4405f&style=for-the-badge)](https://instagram.com/sinakarimi7)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sinakarimi7/sinakarimi7)
+[![HitCount](http://hits.dwyl.com/sinakarimi7/sinakarimi7.svg)](http://hits.dwyl.com/sinakarimi7/sinakarimi7)
