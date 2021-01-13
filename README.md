@@ -4,7 +4,7 @@
 
 <h2> Hey there! <img src="https://github.com/SinaKarimi7/SinaKarimi7/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-Software Engineer, Data Science Researcher, Python and C++ Developer, GNU/Linux Lover :heart:
+Software Engineer, Machine Learning Researcher, Python and C++ Developer, GNU/Linux Lover :heart:
 
 ### ⚡️ Technologies
 
@@ -30,4 +30,4 @@ several other options available, too.
 [![Telegram](https://img.shields.io/static/v1?link=https://t.me/s/sinakarimi7&logo=telegram&label=Telegram&message=%20&color=2ca5e0&style=for-the-badge)](https://t.me/s/sinakarimi7)
 [![Instagram](https://img.shields.io/static/v1?link=https://instagram.com/sinakarimi7&logo=instagram&label=Instagram&message=%20&color=e4405f&style=for-the-badge)](https://instagram.com/sinakarimi7)
 
-[![HitCount](http://hits.dwyl.com/sinakarimi7/sinakarimi7.svg)](http://hits.dwyl.com/sinakarimi7/sinakarimi7)
+![](https://komarev.com/ghpvc/?username=sinakarimi7&style=flat-square&logo=github&label=Views&color=000000)
