@@ -26,8 +26,16 @@ The easiest way to contact me is by sending me an [email](mailto:sinakarimi76@gm
 several other options available, too.
 
 [![Twitter](https://img.shields.io/twitter/follow/sinakarimi76?link=https://twitter.com/sinakarimi76&logo=twitter&color=1da1f2&style=for-the-badge)](https://twitter.com/sinakarimi76)
-[![Linkedin](https://img.shields.io/static/v1?link=https://linkedin.com/in/sinakarimi7&logo=linkedin&label=Linkedin&message=%20&style=for-the-badge)](https://linkedin.com/in/sinakarimi7)
+[![Linkedin](https://img.shields.io/static/v1?link=https://linkedin.com/in/c1nn4&logo=linkedin&label=Linkedin&message=%20&style=for-the-badge)](https://linkedin.com/in/c1nn4)
 [![Telegram](https://img.shields.io/static/v1?link=https://t.me/s/sinakarimi7&logo=telegram&label=Telegram&message=%20&color=2ca5e0&style=for-the-badge)](https://t.me/s/sinakarimi7)
 [![Instagram](https://img.shields.io/static/v1?link=https://instagram.com/sinakarimi7&logo=instagram&label=Instagram&message=%20&color=e4405f&style=for-the-badge)](https://instagram.com/sinakarimi7)
+
+### 🎧 I'm listening now this :)
+
+<a href="https://cinna-spotify.vercel.app/now-playing?open">
+    <img src="https://cinna-spotify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
+
 
 ![](https://komarev.com/ghpvc/?username=sinakarimi7&style=flat-square&logo=github&label=Views&color=000000)
