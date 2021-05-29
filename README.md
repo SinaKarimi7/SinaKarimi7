@@ -30,7 +30,7 @@ several other options available, too.
 [![Telegram](https://img.shields.io/static/v1?link=https://t.me/s/sinakarimi7&logo=telegram&label=Telegram&message=%20&color=2ca5e0&style=for-the-badge)](https://t.me/s/sinakarimi7)
 [![Instagram](https://img.shields.io/static/v1?link=https://instagram.com/sinakarimi7&logo=instagram&label=Instagram&message=%20&color=e4405f&style=for-the-badge)](https://instagram.com/sinakarimi7)
 
-### 🎧 I'm listening now this :)
+### 🎧 I'm listening to this now :)
 
 <a href="https://cinna-spotify.vercel.app/now-playing?open">
     <img src="https://cinna-spotify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
