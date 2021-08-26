@@ -25,10 +25,8 @@ Software Engineer, Machine Learning Researcher, Python and C++ Developer, GNU/Li
 The easiest way to contact me is by sending me an [email](mailto:sinakarimi76@gmail.com). But you have
 several other options available, too.
 
-[![Twitter](https://img.shields.io/twitter/follow/sinakarimi76?link=https://twitter.com/sinakarimi76&logo=twitter&color=1da1f2&style=for-the-badge)](https://twitter.com/sinakarimi76)
 [![Linkedin](https://img.shields.io/static/v1?link=https://linkedin.com/in/c1nn4&logo=linkedin&label=Linkedin&message=%20&style=for-the-badge)](https://linkedin.com/in/c1nn4)
 [![Telegram](https://img.shields.io/static/v1?link=https://t.me/s/sinakarimi7&logo=telegram&label=Telegram&message=%20&color=2ca5e0&style=for-the-badge)](https://t.me/s/sinakarimi7)
-[![Instagram](https://img.shields.io/static/v1?link=https://instagram.com/sinakarimi7&logo=instagram&label=Instagram&message=%20&color=e4405f&style=for-the-badge)](https://instagram.com/sinakarimi7)
 
 ### 🎧 I'm listening to this now :)
 
