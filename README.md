@@ -2,7 +2,7 @@
   <img width="100%" alt="interstellar" src="https://github.com/SinaKarimi7/SinaKarimi7/blob/master/gifs/interstellar.gif">
 </p>
 
-<h2> Hey there! <img src="https://github.com/SinaKarimi7/SinaKarimi7/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hey there! <img src="https://github.com/SinaKarimi7/SinaKarimi7/blob/master/gifs/Hi.gif" height="30px"></h2>
 
 Software Engineer, Machine Learning Researcher, Python and C++ Developer, GNU/Linux Lover :heart:
 
